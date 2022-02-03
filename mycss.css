@@ -1,0 +1,53 @@
+.hr1 {
+    border: 0;
+    height: 10px;
+    background: #006400;
+    background-image: linear-gradient(to right, #ccc, #006400, #ccc);
+    }
+    body{
+        background: linear-gradient(to left top, #8FBC8F, white) fixed;
+    }
+    p {
+        font-family:'lucida console',monaco, monospace;
+        text-align:center;
+    }
+    a:link{
+    color:green;
+    font-size:22px;
+    }
+    th{
+    font-family:georgia,garamond,serif;
+    font-size:30px;
+    }
+    td{
+    border-color: #006400;
+    border-style: ridge;
+    border: 2px;
+    border-radius: 10px;
+    border-collapse: collapse;
+    background-color: #228B22;
+    font-family:'lucida console',monaco,monospace;
+    color: white;
+    text-align: center;
+    }
+    address{
+    text-align:center;
+    }
+    mark{
+		background-color:#4DED30;
+		color:white;
+	}
+    ul{
+		display: table;
+		margin: 0 auto;
+		text-align: left;
+	}
+		li, caption{
+		font-family:'lucida console',monaco, monospace;
+		font-size:20px;
+	}
+        h1{
+            color:#006400; 
+            font-size:50px;
+            text-align:center
+        }
